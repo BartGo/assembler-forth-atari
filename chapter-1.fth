@@ -1,7 +1,7 @@
 ( J. Ruszczyc, ASEMBLER 6502 )
 ( Chapter 1.3 -- First Steps )
 ( using Atari XL / APX Forth )
-( "75 LOAD" for Ragsdale Asm )
+( "75 LOAD" for Mullarky Asm )
 ( "21 LOAD" for Memory DUMPs )
 
 FORTH DEFINITIONS ASSEMBLER HEX
